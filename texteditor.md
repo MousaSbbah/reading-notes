@@ -13,3 +13,6 @@ of the most important features are:
 
 maybe there is some other features that are must-have’s, but I think these features are a good
 start. and maybe the best text editor is **truly the one that you enjoy** using the most
+
+
+[Home Page](https://mousasbbah.github.io/reading-notes)
