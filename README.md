@@ -9,4 +9,12 @@ In my case, to keep my growth mindset I do the following :
    3. I try with all my **efforts** to reach my goal no matter how hard it takes
 
 ****
-****
+# Github pages links : 
+
+## [Home Page](https://mousasbbah.github.io/reading-notes/homepage)
+
+## [Learn Markdown](https://mousasbbah.github.io/reading-notes/Markdown)
+
+## [Seeing Your remote](https://mousasbbah.github.io/reading-notes/rac)
+
+## [Text Editor Choosing](https://mousasbbah.github.io/reading-notes/texteditor)
