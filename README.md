@@ -21,7 +21,7 @@ E-mail  : mosassbbah@gmail.com
 ****
 ****
 
-![Mousa Sabbah](https://avatars.githubusercontent.com/u/78363237?s=400&u=eaf1936299a1a0b6a3879012545caa75f895631a&v=4)
+
 
 
 
