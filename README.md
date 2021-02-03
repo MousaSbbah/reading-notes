@@ -40,6 +40,8 @@ In my case, to keep my growth mindset I do the following :
 ****
 # Read Notes Links : 
 
+## [HOME](https://mousasbbah.github.io/reading-notes/)
+
 ## [Learn Markdown](https://mousasbbah.github.io/reading-notes/Markdown)
 
 ## [Seeing Your remote](https://mousasbbah.github.io/reading-notes/rac)
