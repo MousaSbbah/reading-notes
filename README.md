@@ -47,3 +47,5 @@ In my case, to keep my growth mindset I do the following :
 ## [Seeing Your remote](https://mousasbbah.github.io/reading-notes/rac)
 
 ## [Text Editor Choosing](https://mousasbbah.github.io/reading-notes/texteditor)
+
+## [Structure Web Pages](https://mousasbbah.github.io/reading-notes/Structurewebpages)
