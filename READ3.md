@@ -49,7 +49,7 @@ into sections, each section
 might require its own section
 homepage to link to all of the
 information within it.For example :
-![sitemap](examplesitemap.png)
+![sitemap](image/examplesitemap.png)
 
 ****
 ## Wireframe
@@ -254,6 +254,8 @@ iframe is an abbreviation of inline
 frame
 
 ## 
+
+[Home Page](https://mousasbbah.github.io/reading-notes)
 
 
 
