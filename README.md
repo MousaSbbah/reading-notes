@@ -48,4 +48,12 @@ In my case, to keep my growth mindset I do the following :
 
 ## [Text Editor Choosing](https://mousasbbah.github.io/reading-notes/texteditor)
 
- ## [Structure Web Pages](READ3.md)
+ ## [Structure Web Pages](https://mousasbbah.github.io/reading-notes/READ3)
+
+ ## [OperatorsvAnd Loops](https://mousasbbah.github.io/reading-notes/OandL)
+
+ ## [Introduction of JS ](https://mousasbbah.github.io/reading-notes/startwithJS)
+
+ ## [Functions in JS](https://mousasbbah.github.io/reading-notes/Functions)
+
+ ## [Color in CSS](https://mousasbbah.github.io/reading-notes/colorCSS)
