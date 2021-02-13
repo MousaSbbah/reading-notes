@@ -52,7 +52,7 @@ In my case, to keep my growth mindset I do the following :
 |[Color in CSS](https://mousasbbah.github.io/reading-notes/colorCSS)|
 
 ******
-|---|
+
 |201 Reading Notes|
 |------|
 |1.|
