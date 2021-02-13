@@ -49,12 +49,12 @@ In my case, to keep my growth mindset I do the following :
 | [OperatorsvAnd Loops](https://mousasbbah.github.io/reading-notes/OandL)| 
 | [Introduction of JS ](https://mousasbbah.github.io/reading-notes/startwithJS)|
 | [Functions in JS](https://mousasbbah.github.io/reading-notes/Functions)| 
-|[Color in CSS](https://mousasbbah.github.io/reading-notes/colorCSS)
-|
+|[Color in CSS](https://mousasbbah.github.io/reading-notes/colorCSS)|
 
 ******
+|---|
 |201 Reading Notes|
-|----------|
+|------|
 |1.|
 |2.|
 |3.|
@@ -69,4 +69,5 @@ In my case, to keep my growth mindset I do the following :
 |13.|
 |14.|
 |15.|
+***************
 
