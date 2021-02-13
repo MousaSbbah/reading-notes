@@ -54,7 +54,7 @@ In my case, to keep my growth mindset I do the following :
 ******
 
 |201 Reading Notes|
-|------|
+| ----------- | 
 |1.|
 |2.|
 |3.|
@@ -69,5 +69,6 @@ In my case, to keep my growth mindset I do the following :
 |13.|
 |14.|
 |15.|
+
 ***************
 
