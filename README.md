@@ -38,22 +38,35 @@ In my case, to keep my growth mindset I do the following :
    3. I try with all my **efforts** to reach my goal no matter how hard it takes
 
 ****
-# Read Notes Links : 
+ 
+| **102 Reading Notes**      |
+| ----------- | 
+| [HOME](https://mousasbbah.github.io/reading-notes/) |
+| [Learn Markdown](https://mousasbbah.github.io/reading-notes/Markdown)   | 
+| [Seeing Your remote](https://mousasbbah.github.io/reading-notes/rac) | 
+| [Text Editor Choosing](https://mousasbbah.github.io/reading-notes/texteditor)      |
+| [Structure Web Pages](https://mousasbbah.github.io/reading-notes/READ3)   | 
+| [OperatorsvAnd Loops](https://mousasbbah.github.io/reading-notes/OandL)| 
+| [Introduction of JS ](https://mousasbbah.github.io/reading-notes/startwithJS)|
+| [Functions in JS](https://mousasbbah.github.io/reading-notes/Functions)| 
+|[Color in CSS](https://mousasbbah.github.io/reading-notes/colorCSS)
+|
 
-## [HOME](https://mousasbbah.github.io/reading-notes/)
+******
+|201 Reading Notes|
+|---|
+|1.|
+|2.|
+|3.|
+|5.|
+|6.|
+|7.|
+|8.|
+|9.|
+|10.|
+|11.|
+|12.|
+|13.|
+|14.|
+|15.|
 
-## [Learn Markdown](https://mousasbbah.github.io/reading-notes/Markdown)
-
-## [Seeing Your remote](https://mousasbbah.github.io/reading-notes/rac)
-
-## [Text Editor Choosing](https://mousasbbah.github.io/reading-notes/texteditor)
-
- ## [Structure Web Pages](https://mousasbbah.github.io/reading-notes/READ3)
-
- ## [OperatorsvAnd Loops](https://mousasbbah.github.io/reading-notes/OandL)
-
- ## [Introduction of JS ](https://mousasbbah.github.io/reading-notes/startwithJS)
-
- ## [Functions in JS](https://mousasbbah.github.io/reading-notes/Functions)
-
- ## [Color in CSS](https://mousasbbah.github.io/reading-notes/colorCSS)
