@@ -58,11 +58,6 @@ In my case, to keep my growth mindset I do the following :
 |201 Reading Notes|
 |---|
 |1. [Introductry HTML & JAVA script](https://mousasbbah.github.io/reading-notes/class01)|
-=======
-|201 Reading Notes|
-| ----------- | 
-|1.|
->>>>>>> 9fdf199b01abd2d3479719501be1a488fc2c0d86
 |2.|
 |3.|
 |5.|
@@ -77,9 +72,3 @@ In my case, to keep my growth mindset I do the following :
 |14.|
 |15.|
 
-<<<<<<< HEAD
-****
-=======
-***************
-
->>>>>>> 9fdf199b01abd2d3479719501be1a488fc2c0d86
