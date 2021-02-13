@@ -1,4 +1,5 @@
-***
+[Home Page](https://mousasbbah.github.io/reading-notes)
+
 # Introduction 
 
 JavaScript allows you to make pages more interactive by accessing and modifying the content and markup used in a web page while its being viewed in the browser 

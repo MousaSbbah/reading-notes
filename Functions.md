@@ -1,3 +1,6 @@
+[Home Page](https://mousasbbah.github.io/reading-notes)
+
+
 # Functions
 
 Functions let you group a series of statements together to perform a

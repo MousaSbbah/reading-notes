@@ -1,3 +1,6 @@
+[Home Page](https://mousasbbah.github.io/reading-notes)
+
+
 # Markdown 
 
 Markdown is a plain text formatting syntax aimed at making writing for the internet easier. The philosophy behind Markdown is that plain text documents should be readable without tags mussing everything up, but there should still be ways to add text modifiers like lists, bold, italics, etc.
