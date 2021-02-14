@@ -326,7 +326,9 @@ They help make your code easier to read and understand.
 This can help you and others who read your code.
  for example :
  ``` 
- /* (MULTI-LINE COMMENTS example )This script displays a greeting to the user based upon the current time.*/
+ /* (MULTI-LINE COMMENTS example )This script displays a 
+ 
+ greeting to the user based upon the current time.*/
   
 ```
 ` //SINGLE-LINE COMMENTS`

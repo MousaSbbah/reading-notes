@@ -53,7 +53,7 @@ In my case, to keep my growth mindset I do the following :
 
 ******
 
-<<<<<<< HEAD
+
 
 |201 Reading Notes|
 |---|
