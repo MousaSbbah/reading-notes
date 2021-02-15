@@ -58,8 +58,8 @@ In my case, to keep my growth mindset I do the following :
 |201 Reading Notes|
 |---|
 |1. [Introductry HTML & JAVA script](https://mousasbbah.github.io/reading-notes/class01)|
-|2.[HTML Text, CSS Introduction, and Basic JavaScript Instructions](https://mousasbbah.github.io/reading-notes/class-02)||
-|3.|
+|2.[HTML Text, CSS Introduction, and Basic JavaScript Instructions](https://mousasbbah.github.io/reading-notes/class-02)|
+|3.[Read03](https://mousasbbah.github.io/reading-notes/class-03)|
 |5.|
 |6.|
 |7.|
