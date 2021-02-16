@@ -60,7 +60,7 @@ In my case, to keep my growth mindset I do the following :
 |1. [Introductry HTML & JAVA script](https://mousasbbah.github.io/reading-notes/class01)|
 |2.[HTML Text, CSS Introduction, and Basic JavaScript Instructions](https://mousasbbah.github.io/reading-notes/class-02)|
 |3.[Read03](https://mousasbbah.github.io/reading-notes/class-03)|
-|5.|
+|5. [Read04](https://mousasbbah.github.io/reading-notes/class-04)||
 |6.|
 |7.|
 |8.|
