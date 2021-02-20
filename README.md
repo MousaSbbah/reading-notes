@@ -59,10 +59,10 @@ In my case, to keep my growth mindset I do the following :
 |---|
 |1. [Introductry HTML & JAVA script](https://mousasbbah.github.io/reading-notes/class01)|
 |2.[HTML Text, CSS Introduction, and Basic JavaScript Instructions](https://mousasbbah.github.io/reading-notes/class-02)|
-|3.[Read03](https://mousasbbah.github.io/reading-notes/class-03)|
+|3.[Read03 ](https://mousasbbah.github.io/reading-notes/class-03)|
 |4. [Read04](https://mousasbbah.github.io/reading-notes/read-04)||
-|55.[Read05](https://mousasbbah.github.io/reading-notes/class05)|
-|7.|
+|5.[Read05](https://mousasbbah.github.io/reading-notes/class05)|
+|6. [Read06 JS Object Literals; The DOM ](https://mousasbbah.github.io/reading-notes/class06)||
 |8.|
 |9.|
 |10.|
