@@ -43,7 +43,7 @@ In my case, to keep my growth mindset I do the following :
 | ----------- | 
 | [HOME](https://mousasbbah.github.io/reading-notes/) |
 | [Learn Markdown](https://mousasbbah.github.io/reading-notes/Markdown)   | 
-| [Seeing Your remote](https://mousasbbah.github.io/reading-notes/rac) | 
+| [Seeing Your   0remote](https://mousasbbah.github.io/reading-notes/rac) | 
 | [Text Editor Choosing](https://mousasbbah.github.io/reading-notes/texteditor)      |
 | [Structure Web Pages](https://mousasbbah.github.io/reading-notes/READ3)   | 
 | [OperatorsvAnd Loops](https://mousasbbah.github.io/reading-notes/OandL)| 
@@ -63,8 +63,8 @@ In my case, to keep my growth mindset I do the following :
 |4. [Read04](https://mousasbbah.github.io/reading-notes/read-04)||
 |5.[Read05](https://mousasbbah.github.io/reading-notes/class05)|
 |6. [Read06 JS Object Literals; The DOM ](https://mousasbbah.github.io/reading-notes/class06)||
+|7.[HTML Tables; JS Constructor Functions](https://mousasbbah.github.io/reading-notes/class07)|
 |8.|
-|9.|
 |10.|
 |11.|
 |12.|
