@@ -65,6 +65,7 @@ In my case, to keep my growth mindset I do the following :
 |6. [Read06 JS Object Literals; The DOM ](https://mousasbbah.github.io/reading-notes/class06)||
 |7.  [HTML Tables; JS Constructor Functions](https://mousasbbah.github.io/reading-notes/class07)|
 |8. [CSS Layout](https://mousasbbah.github.io/reading-notes/read08)|
+|9.[Forms and Events](https://mousasbbah.github.io/reading-notes/class09)|
 |10.|
 |11.|
 |12.|
