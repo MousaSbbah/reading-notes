@@ -1,3 +1,5 @@
+[HOME](https://mousasbbah.github.io/reading-notes/) 
+
 # Forms and Events
 
 ## Forms 
@@ -486,3 +488,4 @@ A finger is dragged across the screen
 Finger is placed on touch screen
 
 
+[HOME](https://mousasbbah.github.io/reading-notes/) 
