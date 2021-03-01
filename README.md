@@ -69,7 +69,7 @@ In my case, to keep my growth mindset I do the following :
 |10. [JavaScript : Error Handling & Debugging](https://mousasbbah.github.io/reading-notes/read10)|
 |11.[Assorted Topics](https://mousasbbah.github.io/reading-notes/read11)|
 |12. [Canvas](https://mousasbbah.github.io/reading-notes/read12)|
-|13.[Local Storage for web application ](./read13.md)|
+|13.[Local Storage for web application ](https://mousasbbah.github.io/reading-notes/read13)|
 |14.|
 |15.|
 
