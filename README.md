@@ -71,7 +71,6 @@ In my case, to keep my growth mindset I do the following :
 |12. [Canvas](https://mousasbbah.github.io/reading-notes/read12)|
 |13.[Local Storage for web application ](https://mousasbbah.github.io/reading-notes/read13)|
 |14. [CSS Transforms, Transitions, and Animations ](https://mousasbbah.github.io/reading-notes/read14-a)|
-|15. [What Google Learned From Its Quest to Build the Perfect Team
-](https://mousasbbah.github.io/reading-notes/read14-b)|
+|15. [What Google Learned From Its Quest to Build the Perfect Team](https://mousasbbah.github.io/reading-notes/read14-b)|
 
  
