@@ -38,6 +38,13 @@ In my case, to keep my growth mindset I do the following :
    3. I try with all my **efforts** to reach my goal no matter how hard it takes
 
 ****
+
+
+# Reading Notes
+
+## Code 102 - Intro to Software Development
+
+
  
 | **102 Reading Notes**      |
 | ----------- | 
@@ -51,7 +58,10 @@ In my case, to keep my growth mindset I do the following :
 | [Functions in JS](https://mousasbbah.github.io/reading-notes/Functions)| 
 |[Color in CSS](https://mousasbbah.github.io/reading-notes/colorCSS)|
 
-******
+<hr>
+
+
+## Code 201 - Foundations of Software Development
 
 
 
@@ -74,3 +84,24 @@ In my case, to keep my growth mindset I do the following :
 |15. [What Google Learned From Its Quest to Build the Perfect Team](https://mousasbbah.github.io/reading-notes/read14-b)|
 
  
+<hr>
+
+## Code 301 - Intermediate Software Development
+
+|301 Reading Notes|
+|---|
+|1.|
+|2. |
+|3. |
+|4. |
+|5. |
+|6. |
+|7.  |
+|8. |
+|9.|
+|10. |
+|11.|
+|12. |
+|13.|
+|14.|
+|15. |
