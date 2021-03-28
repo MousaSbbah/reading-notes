@@ -90,8 +90,8 @@ In my case, to keep my growth mindset I do the following :
 
 |301 Reading Notes|
 |---|
-|1.|
-|2. |
+|1. [RESPONSIVE WEB DESIGN and FLOATS](https://mousasbbah.github.io/reading-notes/301read/Read01)|
+|2. [ jQuery, Events, and The DOM](https://mousasbbah.github.io/reading-notes/301read/Read02)|
 |3. |
 |4. |
 |5. |
