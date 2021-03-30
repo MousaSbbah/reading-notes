@@ -93,7 +93,7 @@ In my case, to keep my growth mindset I do the following :
 |1. [RESPONSIVE WEB DESIGN and FLOATS](https://mousasbbah.github.io/reading-notes/301read/Read01)|
 |2. [ jQuery, Events, and The DOM](https://mousasbbah.github.io/reading-notes/301read/Read02)|
 |3. [ MUSTACHE and FLEXBOX](https://mousasbbah.github.io/reading-notes/301read/Read03)|
-|4. |
+|4. [  Responsive Web Design and Regular Expressions](https://mousasbbah.github.io/reading-notes/301read/Read04)|
 |5. |
 |6. |
 |7.  |
