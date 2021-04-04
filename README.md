@@ -96,7 +96,7 @@ In my case, to keep my growth mindset I do the following :
 |4. [  Responsive Web Design and Regular Expressions](https://mousasbbah.github.io/reading-notes/301read/Read04)|
 |5. [Heroku Deployment](https://mousasbbah.github.io/reading-notes/301read/Read05)|
 |6. [NODE.JS](https://mousasbbah.github.io/reading-notes/301read/Read06)|
-|7. |
+|7. [REpresentational State Transfer (REST) ](https://mousasbbah.github.io/reading-notes/301read/Read07)|
 |8. |
 |9.|
 |10. |
