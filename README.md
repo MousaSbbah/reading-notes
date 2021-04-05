@@ -97,7 +97,7 @@ In my case, to keep my growth mindset I do the following :
 |5. [Heroku Deployment](https://mousasbbah.github.io/reading-notes/301read/Read05)|
 |6. [NODE.JS](https://mousasbbah.github.io/reading-notes/301read/Read06)|
 |7. [REpresentational State Transfer (REST) ](https://mousasbbah.github.io/reading-notes/301read/Read07)|
-|8. |
+|8. [SQL](https://mousasbbah.github.io/reading-notes/301read/Read08)|
 |9.|
 |10. |
 |11.|
