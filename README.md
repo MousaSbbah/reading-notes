@@ -98,7 +98,7 @@ In my case, to keep my growth mindset I do the following :
 |6. [NODE.JS](https://mousasbbah.github.io/reading-notes/301read/Read06)|
 |7. [REpresentational State Transfer (REST) ](https://mousasbbah.github.io/reading-notes/301read/Read07)|
 |8. [SQL](https://mousasbbah.github.io/reading-notes/301read/Read08)|
-|9.|
+|9.[FUNCTIONAL PROGRAMMING](https://mousasbbah.github.io/reading-notes/301read/Read09)|
 |10. |
 |11.|
 |12. |
