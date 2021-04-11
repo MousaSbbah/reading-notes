@@ -100,7 +100,7 @@ In my case, to keep my growth mindset I do the following :
 |8. [SQL](https://mousasbbah.github.io/reading-notes/301read/Read08)|
 |9.[FUNCTIONAL PROGRAMMING](https://mousasbbah.github.io/reading-notes/301read/Read09)|
 |10. [The Call Stack and Debugging](https://mousasbbah.github.io/reading-notes/301read/Read10) |
-|11.|
+|11. [EJS](https://mousasbbah.github.io/reading-notes/301read/Read11)|
 |12. |
 |13.|
 |14.|
