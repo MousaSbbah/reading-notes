@@ -105,3 +105,33 @@ In my case, to keep my growth mindset I do the following :
 |13.[FORM](https://mousasbbah.github.io/reading-notes/301read/Read13)|
 |14. [Database Normalization](https://mousasbbah.github.io/reading-notes/301read/Read14a)|
 |15.[Diversity & Inclusion in the Tech Industry](https://mousasbbah.github.io/reading-notes/301read/Read15)|
+
+<hr>
+
+## Code 401 - Advanced Software Development
+
+|401 Reading Notes|
+|---|
+|00 . [Programming Problems Solving ](https://mousasbbah.github.io/reading-notes/401read/read00)|
+|01. []()|
+|02. []()|
+|03. []()|
+|04. []()|
+|05. []()|
+|06. []()|
+|07. []()|
+|08. []()|
+|09. []()|
+|10. []()|
+|11. []()|
+|12. []()|
+|13. []()|
+|14. []()|
+|15. []()|
+|16. []()|
+|17. []()|
+|18. []()|
+|19. []()|
+|20. []()|
+|21. []()|
+|22. []()|
