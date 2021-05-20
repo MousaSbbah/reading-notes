@@ -117,7 +117,7 @@ In my case, to keep my growth mindset I do the following :
 |02. [Express](https://mousasbbah.github.io/reading-notes/401read/read02)|
 |03. [Express REST API](https://mousasbbah.github.io/reading-notes/401read/read03)|
 |04. [Data Modeling](https://mousasbbah.github.io/reading-notes/401read/read04)|
-|05. []()|
+|05. [Data Modeling](https://mousasbbah.github.io/reading-notes/401read/read05)|
 |06. []()|
 |07. []()|
 |08. []()|
