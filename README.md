@@ -119,7 +119,7 @@ In my case, to keep my growth mindset I do the following :
 |04. [Data Modeling](https://mousasbbah.github.io/reading-notes/401read/read04)|
 |05. [linked list](https://mousasbbah.github.io/reading-notes/401read/read05)|
 |06. [Authentication](https://mousasbbah.github.io/reading-notes/401read/read06)|
-|07. []()|
+|07. [Bearer Authorization](https://mousasbbah.github.io/reading-notes/401read/read07)|
 |08. []()|
 |09. []()|
 |10. []()|
