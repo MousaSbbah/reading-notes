@@ -120,7 +120,7 @@ In my case, to keep my growth mindset I do the following :
 |05. [linked list](https://mousasbbah.github.io/reading-notes/401read/read05)|
 |06. [Authentication](https://mousasbbah.github.io/reading-notes/401read/read06)|
 |07. [Bearer Authorization](https://mousasbbah.github.io/reading-notes/401read/read07)|
-|08. []()|
+|08. [RBAC](https://mousasbbah.github.io/reading-notes/401read/read08)|
 |09. []()|
 |10. []()|
 |11. []()|
