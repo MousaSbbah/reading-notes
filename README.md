@@ -113,7 +113,7 @@ In my case, to keep my growth mindset I do the following :
 |401 Reading Notes|
 |---|
 |00 . [Programming Problems Solving ](https://mousasbbah.github.io/reading-notes/401read/read00)|
-|01. |
+|01. ****** ****** |
 |02. [Express](https://mousasbbah.github.io/reading-notes/401read/read02)|
 |03. [Express REST API](https://mousasbbah.github.io/reading-notes/401read/read03)|
 |04. [Data Modeling](https://mousasbbah.github.io/reading-notes/401read/read04)|
@@ -121,8 +121,8 @@ In my case, to keep my growth mindset I do the following :
 |06. [Authentication](https://mousasbbah.github.io/reading-notes/401read/read06)|
 |07. [Bearer Authorization](https://mousasbbah.github.io/reading-notes/401read/read07)|
 |08. [RBAC](https://mousasbbah.github.io/reading-notes/401read/read08)|
-|09. []()|
-|10. []()|
+|09.|
+|10.  [Stack and Queue](https://mousasbbah.github.io/reading-notes/401read/read010)|
 |11. []()|
 |12. []()|
 |13. []()|
