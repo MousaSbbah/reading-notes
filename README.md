@@ -121,8 +121,8 @@ In my case, to keep my growth mindset I do the following :
 |06. [Authentication](https://mousasbbah.github.io/reading-notes/401read/read06)|
 |07. [Bearer Authorization](https://mousasbbah.github.io/reading-notes/401read/read07)|
 |08. [RBAC](https://mousasbbah.github.io/reading-notes/401read/read08)|
-|09.|
-|10.  [Stack and Queue](https://mousasbbah.github.io/reading-notes/401read/read010)|
+|09.[OAuth ](https://mousasbbah.github.io/reading-notes/401read/read09)|
+|10.  [Stack and Queue](https://mousasbbah.github.io/reading-notes/401read/read10)|
 |11. []()|
 |12. []()|
 |13. []()|
