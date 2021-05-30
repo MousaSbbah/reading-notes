@@ -124,7 +124,7 @@ In my case, to keep my growth mindset I do the following :
 |09.[OAuth ](https://mousasbbah.github.io/reading-notes/401read/read09)|
 |10.  [Stack and Queue](https://mousasbbah.github.io/reading-notes/401read/read10)|
 |11. [Event Driven Applications](https://mousasbbah.github.io/reading-notes/401read/read11)|
-|12. []()|
+|12. [Socket.io](https://mousasbbah.github.io/reading-notes/401read/read12)|
 |13. []()|
 |14. []()|
 |15. []()|
