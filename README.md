@@ -126,7 +126,7 @@ In my case, to keep my growth mindset I do the following :
 |11. [Event Driven Applications](https://mousasbbah.github.io/reading-notes/401read/read11)|
 |12. [Socket.io](https://mousasbbah.github.io/reading-notes/401read/read12)|
 |13. [Message Queue](https://mousasbbah.github.io/reading-notes/401read/read13)|
-|14. []()|
+|14. [Event Driven Architecture](https://mousasbbah.github.io/reading-notes/401read/read14)|
 |15. []()|
 |16. []()|
 |17. []()|
