@@ -5,9 +5,13 @@
 
 
 **Describe the Web-Request-Response-Cycle**
-**Explain what a “server” is, as it relates to the WRRC**
+
+The request/response cycle traces how a user's request flows through the app. Understanding the request/response cycle is helpful to figure out which files to edit when developing an app (and where to look when things aren't working).
+
+
 **What does it mean to “deploy” an application?**
 
+Software deployment includes all of the steps, processes, and activities that are required to make a software system or update available to its intended users. Today, most IT organizations and software developers deploy software updates, patches and new applications with a combination of manual and automated processes. Some of the most common activities of software deployment include software release, installation, testing, deployment, and performance monitoring
 
 ### **Document the following Vocabulary Terms**
 
