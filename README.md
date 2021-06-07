@@ -129,9 +129,16 @@ In my case, to keep my growth mindset I do the following :
 |14. [Event Driven Architecture](https://mousasbbah.github.io/reading-notes/401read/read14)|
 |15. [Trees](https://mousasbbah.github.io/reading-notes/401read/trees)|
 |16.  [AWS: Cloud Servers](https://mousasbbah.github.io/reading-notes/401read/read16)|
-|17. []()|
+|17. [AWS: S3 and Lambda](https://mousasbbah.github.io/reading-notes/401read/read17)|
 |18. []()|
 |19. []()|
 |20. []()|
 |21. []()|
-|22. []()|
+|23. []()|
+|24. []()|
+|25. []()|
+|26. []()|
+|27. []()|
+|28. []()|
+|29. []()|
+|30. []()|
