@@ -130,8 +130,8 @@ In my case, to keep my growth mindset I do the following :
 |15. [Trees](https://mousasbbah.github.io/reading-notes/401read/trees)|
 |16.  [AWS: Cloud Servers](https://mousasbbah.github.io/reading-notes/401read/read16)|
 |17. [AWS: S3 and Lambda](https://mousasbbah.github.io/reading-notes/401read/read17)|
-|18. []()|
-|19. []()|
+|18. [AWS: API, Dynamo and Lambda](https://mousasbbah.github.io/reading-notes/401read/read18)|
+|19. [AWS: Events](https://mousasbbah.github.io/reading-notes/401read/read19)|
 |20. []()|
 |21. []()|
 |23. []()|
