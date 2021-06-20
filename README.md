@@ -133,7 +133,7 @@ In my case, to keep my growth mindset I do the following :
 |18. [AWS: API, Dynamo and Lambda](https://mousasbbah.github.io/reading-notes/401read/read18)|
 |19. [AWS: Events](https://mousasbbah.github.io/reading-notes/401read/read19)|
 |20. [Component Based UI](https://mousasbbah.github.io/reading-notes/401read/read26)|
-|21. []()|
+|21. [Props and State](https://mousasbbah.github.io/reading-notes/401read/read27)|
 |23. []()|
 |24. []()|
 |25. []()|
