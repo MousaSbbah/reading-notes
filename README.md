@@ -134,7 +134,7 @@ In my case, to keep my growth mindset I do the following :
 |19. [AWS: Events](https://mousasbbah.github.io/reading-notes/401read/read19)|
 |20. [Component Based UI](https://mousasbbah.github.io/reading-notes/401read/read26)|
 |21. [Props and State](https://mousasbbah.github.io/reading-notes/401read/read27)|
-|23. []()|
+|23. [Component Composition](https://mousasbbah.github.io/reading-notes/401read/read28)|
 |24. []()|
 |25. []()|
 |26. []()|
@@ -142,3 +142,8 @@ In my case, to keep my growth mindset I do the following :
 |28. []()|
 |29. []()|
 |30. []()|
+|31. []()|
+|32. []()|
+|33. []()|
+|34. []()|
+|35. []()|
