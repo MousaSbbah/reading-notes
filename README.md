@@ -135,7 +135,7 @@ In my case, to keep my growth mindset I do the following :
 |20. [Component Based UI](https://mousasbbah.github.io/reading-notes/401read/read26)|
 |21. [Props and State](https://mousasbbah.github.io/reading-notes/401read/read27)|
 |23. [Component Composition](https://mousasbbah.github.io/reading-notes/401read/read28)|
-|24. []()|
+|24. [Routing](https://mousasbbah.github.io/reading-notes/401read/read29)|
 |25. []()|
 |26. []()|
 |27. []()|
