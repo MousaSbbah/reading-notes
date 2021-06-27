@@ -137,7 +137,7 @@ In my case, to keep my growth mindset I do the following :
 |23. [Component Composition](https://mousasbbah.github.io/reading-notes/401read/read28)|
 |24. [Routing](https://mousasbbah.github.io/reading-notes/401read/read29)|
 |25. [Hash Tables](https://mousasbbah.github.io/reading-notes/401read/hashTables)|
-|26. []()|
+|26. [Hooks API](https://mousasbbah.github.io/reading-notes/401read/read31)|
 |27. []()|
 |28. []()|
 |29. []()|
