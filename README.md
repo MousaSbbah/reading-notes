@@ -138,8 +138,8 @@ In my case, to keep my growth mindset I do the following :
 |24. [Routing](https://mousasbbah.github.io/reading-notes/401read/read29)|
 |25. [Hash Tables](https://mousasbbah.github.io/reading-notes/401read/hashTables)|
 |26. [Hooks API](https://mousasbbah.github.io/reading-notes/401read/read31)|
-|27. []()|
-|28. []()|
+|27. [ Custom Hooks ](https://mousasbbah.github.io/reading-notes/401read/read32)|
+|28. [Context API ](https://mousasbbah.github.io/reading-notes/401read/read33)|
 |29. []()|
 |30. []()|
 |31. []()|
