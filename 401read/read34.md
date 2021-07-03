@@ -1,87 +1,113 @@
-# `<Login />` and `<Auth />`
+# Redux
 
 
 
 
 ## Review, Research, and Discussion
 
+**What are the advantages of storing tokens in “Cookies” vs “Local Storage”**
 
-**Why is the Context API useful?**
-
-The React Context API is a way for a React app to effectively produce global variables that can be passed around.
-
-**Can a component outside of a provider get its context?**
-
-No
-
-**What are some common use cases for using the Context API?**
-
-Theming  --- setting
+Both localStorage and cookies are vulnerable to XSS attacks but it's harder for the attacker to do the attack when you're using httpOnly cookies.
 
 
+**Explain 3rd party cookies.**
+
+Third-party cookies are cookies that are set by a website other than the one you are currently on. For example, you can have a "Like" button on your website which will store a cookie on a visitor's computer, that cookie can later be accessed by Facebook to identify visitors and see which websites they visited.
+
+**How do pixel tags work?**
 
 
+A tracking pixel (also called 1x1 pixel or pixel tag) is a graphic with dimensions of 1x1 pixels that is loaded when a user visits a webpage or opens an email. ... The tracking pixel URL is the memory location on the server. When the user visits a website, the image with the tag is loaded from this server.
 
 ## Document the following Vocabulary Terms
 |Term||
 |----|-----|
-|global state|Context provides a way to pass data through the component tree without having to pass props down manually at every level, managing state in multiple components that are not directly connected.|
-|global context|share data that can be considered “global” for a tree of React components, such as the current authenticated user, theme, or preferred language. |
-|provider|component that allows consuming components to subscribe to context changes|
-|consumer|A React component that subscribes to context changes. Using this component lets you subscribe to a context within a function component.|
+|cookies|Cookies are the data stored in the form of key-value pairs that are used to store information about the user on their computer by the websites that the users browse and use it to verify them.|
+|authorization|The auth header is used to make authenticated HTTP requests to the server api using JWT authentication.|
+|access control|is a security technique that regulates who or what can view or use resources in a computing environment. It is a fundamental concept in security that minimizes risk to the business or organization.|
+|conditional rendering|Conditional rendering is a term to describe the ability to render different user interface (UI) markup if a condition is true or false. In React, it allows us to render different elements or components based on a condition. This concept is applied often in the following
+
+# Redux
+Redux is a predictable state container for JavaScript apps. It helps you write applications that behave consistently, run in different environments (client, server, and native), and are easy to test.
+
+## Installation
+
+**Redux Toolkit** is our official recommended approach for writing Redux logic. It wraps around the Redux core, and contains packages and functions that we think are essential for building a Redux app. Redux Toolkit builds in our suggested best practices, simplifies most Redux tasks, prevents common mistakes, and makes it easier to write Redux applications.
 
 
+Redux Toolkit is available as a package on NPM for use with a module bundler or in a Node application:
 
-## DEFINITION OF ROLE-BASED ACCESS CONTROL (RBAC)
-Role-based access control (RBAC) restricts network access based on a person's role within an organization and has become one of the main methods for advanced access control. The roles in RBAC refer to the levels of access that employees have to the network.
+# NPM
 
-Employees are only allowed to access the information necessary to effectively perform their job duties. Access can be based on several factors, such as authority, responsibility, and job competency. In addition, access to computer resources can be limited to specific tasks such as the ability to view, create, or modify a file.
+```
+npm install @reduxjs/toolkit
 
-## Cookies
+```
 
- are the data stored in the form of key-value pairs that are used to store information about the user on their computer by the websites that the users browse and use it to verify them.
 
- ## React-cookie component (Usage)
+**Create a React Redux App**
 
- ```jsx
+```
+npx create-react-app my-app --template redux
+```
 
-import { Component } from 'react'
-import cookie from 'react-cookies'
- 
-import LoginPanel from './LoginPanel'
-import Dashboard from './Dashboard'
- 
-class MyApp extends Component {
-  constructor () {
-    super()
- 
-    this.onLogin = this.onLogin.bind(this)
-    this.onLogout = this.onLogout.bind(this)
-  }
- 
-  componentWillMount() {
-    this.state =  { userId: cookie.load('userId') }
-  }
- 
-  onLogin(userId) {
-    this.setState({ userId })
-    cookie.save('userId', userId, { path: '/' })
-  }
- 
-  onLogout() {
-    cookie.remove('userId', { path: '/' })
-  }
- 
-  render() {
-    const { userId } = this.state
- 
-    if (!userId) {
-      return <LoginPanel onSuccess={this.onLogin} />
-    }
- 
-    return <Dashboard userId={userId} />
+
+**Redux Core**
+
+```
+npm install redux
+```
+
+
+## Basic Example
+The whole global state of your app is stored in an object tree inside a single store. The only way to change the state tree is to create an action, an object describing what happened, and dispatch it to the store. To specify how state gets updated in response to an action, you write pure reducer functions that calculate a new state based on the old state and the action.
+
+```
+import { createStore } from 'redux'
+
+/**
+ * This is a reducer - a function that takes a current state value and an
+ * action object describing "what happened", and returns a new state value.
+ * A reducer's function signature is: (state, action) => newState
+ *
+ * The Redux state should contain only plain JS objects, arrays, and primitives.
+ * The root state value is usually an object.  It's important that you should
+ * not mutate the state object, but return a new object if the state changes.
+ *
+ * You can use any conditional logic you want in a reducer. In this example,
+ * we use a switch statement, but it's not required.
+ */
+function counterReducer(state = { value: 0 }, action) {
+  switch (action.type) {
+    case 'counter/incremented':
+      return { value: state.value + 1 }
+    case 'counter/decremented':
+      return { value: state.value - 1 }
+    default:
+      return state
   }
 }
 
+// Create a Redux store holding the state of your app.
+// Its API is { subscribe, dispatch, getState }.
+let store = createStore(counterReducer)
+
+// You can use subscribe() to update the UI in response to state changes.
+// Normally you'd use a view binding library (e.g. React Redux) rather than subscribe() directly.
+// There may be additional use cases where it's helpful to subscribe as well.
+
+store.subscribe(() => console.log(store.getState()))
+
+// The only way to mutate the internal state is to dispatch an action.
+// The actions can be serialized, logged or stored and later replayed.
+store.dispatch({ type: 'counter/incremented' })
+// {value: 1}
+store.dispatch({ type: 'counter/incremented' })
+// {value: 2}
+store.dispatch({ type: 'counter/decremented' })
+// {value: 1}
+
 ```
+
+# [Redux Docs](https://redux.js.org/)
 

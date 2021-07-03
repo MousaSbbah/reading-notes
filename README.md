@@ -142,7 +142,7 @@ In my case, to keep my growth mindset I do the following :
 |28. [Context API ](https://mousasbbah.github.io/reading-notes/401read/read33)|
 |29. [React Cookies ](https://mousasbbah.github.io/reading-notes/401read/read34)|
 |30. [Graphs ](https://mousasbbah.github.io/reading-notes/401read/graph)|
-|31. []()|
+|31.  [Redux ](https://mousasbbah.github.io/reading-notes/401read/read34)|
 |32. []()|
 |33. []()|
 |34. []()|
