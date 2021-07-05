@@ -143,7 +143,7 @@ In my case, to keep my growth mindset I do the following :
 |29. [React Cookies ](https://mousasbbah.github.io/reading-notes/401read/read34)|
 |30. [Graphs ](https://mousasbbah.github.io/reading-notes/401read/graph)|
 |31.  [Redux ](https://mousasbbah.github.io/reading-notes/401read/read34)|
-|32. []()|
+|32. [Combined Reducers](https://mousasbbah.github.io/reading-notes/401read/read37)|
 |33. []()|
 |34. []()|
 |35. []()|
