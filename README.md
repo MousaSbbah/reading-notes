@@ -145,6 +145,6 @@ In my case, to keep my growth mindset I do the following :
 |31.  [Redux ](https://mousasbbah.github.io/reading-notes/401read/read34)|
 |32. [Combined Reducers](https://mousasbbah.github.io/reading-notes/401read/read37)|
 |33. [Asynchronous Actions](https://mousasbbah.github.io/reading-notes/401read/read38)|
-|33. []()|
+|33. [Redux - Additional Topics](https://mousasbbah.github.io/reading-notes/401read/read39)|
 |34. []()|
 |35. []()|
